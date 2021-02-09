@@ -1,0 +1,15 @@
+extends layout
+
+block content
+
+        h1 Compra Finalizada
+                
+                div.agregar
+                   a(href="/tienda") Volver 
+
+        div.contenedor
+
+                h2 Camiseta #{color}
+                img(src="/img/"+unaCamiseta.imagen, width="250")
+                p Precio #{unaCamiseta.precio} dólares
+                p Compra de prueba finalizada. ¡Muchas gracias por probar la web!
