@@ -6,7 +6,7 @@
 - Creación de rutas avanzadas con Node.js.
 - Creación de páginas de error con Node.js.
 - Creación y configuración de servidor para Node.js
-- Gestion de proyecto con Express
+- Gestion de proyecto con Express Generator
 - Conexion a base de datos MongoDB
 
 # MongoDB
