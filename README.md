@@ -1,6 +1,6 @@
 # Sitio web básico: Pequeña tienda de camisetas con Base de datos NoSQL
  
- Desarrollo de una tienda de camisetas como proyecto web básico en NodeJS, Express y MongoDB del Curso online **Node.js práctico: Sitio web**
+ Desarrollo de una tienda de camisetas como proyecto web básico en JavaScript, NodeJS, Express y MongoDB del Curso online **Node.js práctico: Sitio web**
 - Instalación y configuración de rutas con Express.
 - Instalación, sintaxis, datos dinámicos y arreglos con Pug.
 - Creación de rutas avanzadas con Node.js.
